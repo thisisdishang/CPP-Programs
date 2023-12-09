@@ -25,7 +25,7 @@ class unaryMinus{
 };
 
 int main(){
-    unaryMinus a1(-20),a2(20);
+    unaryMinus a1(-20),a2(15);
     
     //operator overloaded here
     unaryMinus x = -a1; 
